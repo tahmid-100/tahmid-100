@@ -4,9 +4,9 @@
 
 **Backend Engineer** · NestJS · TypeScript · PostgreSQL
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/YOUR_LEETCODE)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](ww.linkedin.com/in/tahmid-alam-093b21315)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/rust_cole/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tahmidalam876@gmail.com)
 
 </div>
 
@@ -65,7 +65,7 @@ I'm a backend engineer focused on building scalable, production-ready REST APIs.
 
 `NestJS` `TypeScript` `PostgreSQL` `TypeORM` `JWT` `Passport` `Swagger`
 
-[View Repo →](https://github.com/tahmid-100/foodeli-backend)
+[View Repo →](https://github.com/tahmid-100/foodlei)
 
 ---
 
@@ -79,7 +79,7 @@ I'm a backend engineer focused on building scalable, production-ready REST APIs.
 
 `React` `TypeScript` `Express.js` `MongoDB` `Mongoose` `Styled-components`
 
-[View Repo →](https://github.com/tahmid-100/folder-structure-viewer)
+[View Repo →](https://github.com/tahmid-100/Folder_Structure)
 
 ---
 
@@ -94,7 +94,7 @@ I'm a backend engineer focused on building scalable, production-ready REST APIs.
 
 `Python` `TensorFlow` `scikit-learn` `pandas` `statsmodels`
 
-[View Repo →](https://github.com/tahmid-100/stock-forecasting)
+[View Repo →](https://github.com/tahmid-100/Time-Series-Forcasting-Lstm-vs-Arima-)
 
 ---
 
@@ -108,7 +108,7 @@ I'm a backend engineer focused on building scalable, production-ready REST APIs.
 
 `Kotlin` `Jetpack Compose` `Room` `MVVM` `DataStore`
 
-[View Repo →](https://github.com/tahmid-100/notes-app)
+[View Repo →](https://github.com/tahmid-100/Note-Taking-Android-App-)
 
 ---
 
@@ -123,19 +123,7 @@ I'm a backend engineer focused on building scalable, production-ready REST APIs.
 
 [View Repo →](https://github.com/tahmid-100/leetcode)
 
----
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tahmid-100&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tahmid-100&layout=compact&theme=default&hide_border=true)
-
-</div>
-
----
 
 <div align="center">
 
