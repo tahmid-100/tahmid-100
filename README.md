@@ -4,7 +4,7 @@
 
 **Backend Engineer** · NestJS · TypeScript · PostgreSQL
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](ww.linkedin.com/in/tahmid-alam-093b21315)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/tahmid-alam-093b21315)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/rust_cole/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tahmidalam876@gmail.com)
 
@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm a backend engineer focused on building scalable, production-ready REST APIs. Currently deep in the **NestJS ecosystem** — working on a full food ordering system covering auth, queues, real-time features, and deployment.
+I'm a backend engineer focused on building scalable, production-ready REST APIs. Currently deep in the **NestJS ecosystem** — working on a full food ordering system covering auth, queues, real-time features, and deployment.I am completing my undergraduate education from Khulna University of Engineering and Technology in Computer Science and Engineering.
 
 - 🔭 Building **Foodeli** — a production-grade food ordering backend (NestJS + PostgreSQL + Redis)
 - 🌱 Learning system design, microservices, and cloud deployment
