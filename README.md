@@ -2,7 +2,7 @@
 
 # Hey, I'm Kh Tahmid Alam 👋
 
-**Backend Engineer** · NestJS · TypeScript · PostgreSQL
+**Aspiring Backend Engineer** · NestJS · TypeScript · PostgreSQL
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tahmid-alam-093b21315)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/rust_cole/)
