@@ -69,17 +69,17 @@ I'm a backend engineer focused on building scalable, production-ready REST APIs.
 
 ---
 
-### 📁 Folder Structure Viewer
-> Full-stack app for managing and visualizing unlimited nested hierarchies
+### 📁 Ecommerce Ordering and Payment System
+> Designed a multi-provider payment flow (Stripe + bKash) behind a single interface using the Strategy pattern; Stripe verified end-to-end in test mode with signature-checked webhooks and idempotent settlement
 
-- Unlimited nested folder hierarchies with parent-child relationships
-- Dual views — flat list and interactive **tree visualization**
-- Auto-generates folder paths (e.g. `Documents/Work/Projects`)
-- Full CRUD via REST API
+- Modeled nested product categories as an adjacency-list tree traversed with DFS for subtree recommendations
+- Prevented overselling through atomic conditional stock updates; order totals computed in integer cents with per-item price snapshots
+- Modeled nested product categories as an adjacency-list tree traversed with DFS for subtree recommendations
+- Shipped with TypeORM migrations, seeders, a multi-stage Docker + Compose setup, Swagger docs, and a demo frontend on Vercel
 
-`React` `TypeScript` `Express.js` `MongoDB` `Mongoose` `Styled-components`
+`NestJS` `TypeScript` `PostgreSQL` `TypeORM` `JWT` `Stripe` `Bkash`
 
-[View Repo →](https://github.com/tahmid-100/Folder_Structure)
+[View Repo →](https://github.com/tahmid-100/ecommerce-backend)
 
 ---
 
